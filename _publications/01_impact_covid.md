@@ -1,5 +1,5 @@
 ---
-title: "Joint Optimization of Multi-vehicles and Traffic Signal: A Parallel Approach in Spatial Domain"
+title: "Joint Optimization of Multivehicles and Traffic Signal: A Parallel Approach in Spatial Domain"
 collection: publications
 category: manuscripts
 permalink: /publication/JournalPaper2-IOTJ-Joint
