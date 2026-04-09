@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jichen Zhu's Academic Pages"
+title: "Jichen Zhu, Ph.D. from Tongji University"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 About me
-======
+------
 I recently received my Ph.D. degree in Traffic Engineering from **Tongji University** in April 2026. During my doctoral studies, I was also a visiting student at the **National University of Singapore (NUS)**.  My research interests include urban traffic signal control, AI/LLM in the intelligent transporation, and autonomous vehicle control.
 
 
 Education
-======
+-----
 - **Tongji University**  
   Ph.D., Traffic Information Engineering and Control (2020-2026)
 
@@ -25,7 +25,7 @@ Education
 
 
 Research interests
-======
+-----
 - Urban Traffic Signal Control
 - AI and LLM in Traffic Management and Control
 - Connected and Autonomous Vehicles
