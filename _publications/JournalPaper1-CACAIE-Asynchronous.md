@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/JournalPaper1-CACAIE-Asynchronous
 date: 2025-08-01
 venue: 'Computer‐Aided Civil and Infrastructure Engineering'
-excerpt: 'The asynchronous framework decouples the entangled interdependence between decision-making and state prediction among different agents, enabling signal control agents to proceed with coordinated control without waiting for other agents’ decisions.'
 paperurl: 'https://bryan-zjc.github.io/files/JournalPaper1-CACAIE-Asynchronous.pdf'
 bibtexurl: 'https://bryan-zjc.github.io/files/JournalPaper1-CACAIE-Asynchronous.bib'
 citation: 'Zhu, J., Ma, C., Shi, Y., Yang, Y., Guo, Y., & Yang, X. (2025). Asynchronous decentralized traffic signal coordinated control in urban road network. Computer‐Aided Civil and Infrastructure Engineering, 40(7), 895-916.'
