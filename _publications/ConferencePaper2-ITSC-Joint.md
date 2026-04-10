@@ -1,7 +1,7 @@
 ---
 title: "Joint Optimization of Traffic Signal and Vehicle  Route via Alternating Direction Method of  Multipliers"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/ConferencePaper2-ITSC-Joint
 date: 2025-11-01
 venue: '2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)'
