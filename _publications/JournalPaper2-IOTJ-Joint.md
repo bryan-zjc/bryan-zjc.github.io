@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/JournalPaper2-IOTJ-Joint
 date: 2025-12-01
 venue: 'IEEE Internet of Things Journal'
-excerpt: "How to coordinate multiple CAVs' trajectories and the isolated traffic signal plan? This study proposed a novel modeling method based on the spatial domain."
 paperurl: 'https://bryan-zjc.github.io/files/JournalPaper2-IOTJ-Joint.pdf'
 bibtexurl: 'https://bryan-zjc.github.io/files/JournalPaper2-IOTJ-Joint.bib'
 citation: 'Zhu, J., Wang, H., Huang, H., Yang, X., Tan, C., & Hu, J. (2025). Joint Optimization of Multi-Vehicles and Traffic Signal: A Parallel Approach in Spatial Domain. IEEE Internet of Things Journal.'
