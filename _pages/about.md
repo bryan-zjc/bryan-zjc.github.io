@@ -17,7 +17,7 @@ Education
 - **Tongji University**, Shanghai, China  
   Ph.D., Traffic Information Engineering and Control (2020-2026)
 
-- **National University of Singapore**, Singapore
+- **National University of Singapore**, Singapore  
   visiting Ph.D. student, Civil and Environmental Engineering (2024–2025)
 
 - **Central South University**, Changsha, China   
