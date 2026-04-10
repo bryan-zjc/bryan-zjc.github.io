@@ -18,7 +18,7 @@ Education
   Ph.D., Traffic Information Engineering and Control (2020-2026)
 
 - **National University of Singapore**, Singapore
-- visiting Ph.D. student, Civil and Environmental Engineering (2024–2025)
+  visiting Ph.D. student, Civil and Environmental Engineering (2024–2025)
 
 - **Central South University**, Changsha, China   
   B.Eng., Transportation Engineering (2016–2020)
