@@ -30,3 +30,8 @@ Research interests
 - AI and LLM in Traffic Management and Control
 - Connected and Autonomous Vehicles
 - Multi‑modal Transportation Systems
+
+
+Contact me
+-----
+- Email: jichen_zhu@tongji.edu.cn
