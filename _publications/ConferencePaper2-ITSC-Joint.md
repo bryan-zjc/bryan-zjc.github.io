@@ -5,7 +5,6 @@ category: conferences
 permalink: /publication/ConferencePaper2-ITSC-Joint
 date: 2025-11-01
 venue: '2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)'
-excerpt: "This study proposes an integrated optimization model for simultaneous traffic signal and vehicle routing."
 paperurl: 'https://bryan-zjc.github.io/files/ConferencePaper2-ITSC-Joint.pdf'
 bibtexurl: 'https://bryan-zjc.github.io/files/ConferencePaper2-ITSC-Joint.bib'
 citation: 'Zhang, Z., Zhu, J.*, Yang, X., & Long, K. (2025, November). Joint Optimization of Traffic Signal and Vehicle Route via Alternating Direction Method of Multipliers. In 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC) (pp. 106-113). IEEE.'
