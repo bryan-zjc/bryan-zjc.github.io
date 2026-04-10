@@ -1,7 +1,7 @@
 ---
 title: "Alternating Direction Method of Multipliers Based Coordination Control of Multi-Vehicles and Traffic Signal"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/ConferencePaper1-IV-Alternating
 date: 2024-07-01
 venue: '2024 IEEE Intelligent Vehicles Symposium (IV)'
