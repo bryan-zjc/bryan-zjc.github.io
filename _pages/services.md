@@ -17,5 +17,5 @@ author_profile: true
 
 ### Conferences
 - IEEE Conference on Intelligent Transportation Systems (ITSC)
-- EEE Intelligent Vehicles Symposium (IV)
+- IEEE Intelligent Vehicles Symposium (IV)
 - Transportation Research Board Annual Meeting
