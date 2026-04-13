@@ -12,7 +12,7 @@ author_profile: true
 - Computer-Aided Civil and Infrastructure Engineering
 - Transportation Research Part B: Methodological
 - Transportation Research Part C: Emerging Technologies
-- ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part B: Mechanical Engineering
+- Journal of Risk and Uncertainty in Engineering Systems Part B: Mechanical Engineering
 
 
 ### Conferences
