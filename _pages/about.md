@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jichen Zhu, Ph.D. from Tongji University"
+title: "Jichen Zhu, Tongji University"
 author_profile: true
 redirect_from: 
   - /about/
