@@ -1,4 +1,4 @@
-<img width="3486" height="62" alt="image" src="https://github.com/user-attachments/assets/3c00b618-7aa9-49ea-828a-5bd7e52b21eb" />---
+---
 title: "Schedule adherence oriented traffic signal control for large-scale scheduled vehicle operations: A multi-agent reinforcement learning approach"
 collection: publications
 category: manuscripts
