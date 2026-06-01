@@ -3,7 +3,7 @@ title: "Integrated optimization for coordinated traffic signal and vehicle routi
 collection: publications
 category: manuscripts
 permalink: /publication/JournalPaper5-CACAIE
-date: 2026-04-27
+date: 2026-03-07
 venue: 'Computer-Aided Civil and Infrastructure Engineering'
 paperurl: 'https://bryan-zjc.github.io/files/JournalPaper5-CACAIE.pdf'
 bibtexurl: 'https://bryan-zjc.github.io/files/JournalPaper5-CACAIE.bib'
