@@ -8,7 +8,6 @@ author_profile: true
 ## Reviewing activities
 
 ### Journals
-- Transportation Research Part C: Emerging Technologies
 - IEEE Transactions on Intelligent Transportation Systems
 - Computer-Aided Civil and Infrastructure Engineering
 - Journal of Risk and Uncertainty in Engineering Systems Part B: Mechanical Engineering
