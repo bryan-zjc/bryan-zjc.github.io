@@ -10,6 +10,8 @@ author_profile: true
 ### Journals
 - IEEE Transactions on Intelligent Transportation Systems
 - Computer-Aided Civil and Infrastructure Engineering
+- Transportation Letters: The International Journal of Transportation Research
+- Transportation Engineering
 - Journal of Risk and Uncertainty in Engineering Systems Part B: Mechanical Engineering
 
 
