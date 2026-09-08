@@ -19,3 +19,4 @@ author_profile: true
 - IEEE Conference on Intelligent Transportation Systems (ITSC)
 - IEEE Intelligent Vehicles Symposium (IV)
 - Transportation Research Board Annual Meeting
+- International Symposium on Multimodal Transportation (ISMT)
