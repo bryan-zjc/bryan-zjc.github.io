@@ -9,19 +9,25 @@ redirect_from:
 
 About me
 ------
-I received my Ph.D. degree in Traffic Engineering from **Tongji University** in April 2026. During my doctoral studies, I was also a visiting student at the **National University of Singapore (NUS)**.  My research interests include **urban traffic signal control**, **AI/LLM in the intelligent transportation**, and **autonomous vehicle control**.
+I received my Ph.D. degree in Traffic Engineering from **Tongji University** in March 2026. I am currently working as a **postdoctoral research fellow** at the Department of Civil and Environmental Engineering at **National University of Singapore (NUS)**. My research interests include **urban traffic signal control**, **AI/LLM in intelligent transportation**, and **autonomous vehicle control**.
 
 
 Education
 -----
 - **Tongji University**, Shanghai, China  
-  Ph.D., Traffic Information Engineering and Control (2020-2026)
+  Ph.D., College of Transportation (2020-2026)
 
 - **National University of Singapore**, Singapore  
-  Visiting Ph.D. student, Civil and Environmental Engineering (2024–2025)
+  Visiting Student, Department of Civil and Environmental Engineering (2024–2025)
 
 - **Central South University**, Changsha, China   
-  B.Eng., Transportation Engineering (2016–2020)
+  B.Eng., School of Traffic and Transportation Engineering (2016–2020)
+
+
+Experience
+-----
+- **National University of Singapore**, Singapore  
+  Research Fellow, Department of Civil and Environmental Engineering (2026-)
 
 
 Research interests
