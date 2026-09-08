@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Jichen Zhu, Tongji University"
+title: "Jichen Zhu, Research Fellow, National University of Singapore"
 author_profile: true
 redirect_from: 
   - /about/
