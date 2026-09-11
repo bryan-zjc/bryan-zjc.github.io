@@ -1,8 +1,6 @@
 ---
 permalink: /
-title: "Jichen Zhu
-
-Research Fellow, National University of Singapore"
+title: "Dr. Jichen Zhu"
 author_profile: true
 redirect_from: 
   - /about/
