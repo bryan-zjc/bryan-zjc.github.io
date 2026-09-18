@@ -40,4 +40,4 @@ Research interests
 
 Contact me
 -----
-- Email: jichen_zhu@tongji.edu.cn
+- Email: jichen.zhu@nus.edu.sg
