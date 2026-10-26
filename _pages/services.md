@@ -11,12 +11,13 @@ author_profile: true
 - IEEE Transactions on Intelligent Transportation Systems
 - Computer-Aided Civil and Infrastructure Engineering
 - Transportation Letters: The International Journal of Transportation Research
+- International Journal of Transportation Science and Technology
 - Transportation Engineering
-- Journal of Risk and Uncertainty in Engineering Systems Part B: Mechanical Engineering
 
 
 ### Conferences
 - IEEE Conference on Intelligent Transportation Systems (ITSC)
 - IEEE Intelligent Vehicles Symposium (IV)
-- Transportation Research Board Annual Meeting
+- Transportation Research Board Annual Meeting (TRB)
+- American Control Conference (ACC)
 - International Symposium on Multimodal Transportation (ISMT)
